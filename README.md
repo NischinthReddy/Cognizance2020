@@ -32,4 +32,6 @@
 
 ## EXPERTISE AT THESE LANGUAGES
 - JAVA
+![PROCOG1](https://user-images.githubusercontent.com/75219583/101353374-7bad6b00-38b9-11eb-939e-5850c1a3a5e3.jpeg)
 - PYTHON
+
