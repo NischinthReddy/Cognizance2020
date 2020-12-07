@@ -1,4 +1,4 @@
-# PORFOLIO
+# PORTFOLIO
 ![procog](https://user-images.githubusercontent.com/75219583/101350895-ca590600-38b5-11eb-8c7d-17276b41de95.png)
 
 ## WHAT PLATFORM I USED FOR THIS....
@@ -17,3 +17,15 @@
 |---|---|---|
 |PYTHON|MS OFFICE|TALLY|
 |DCA|HTML|ADCA|
+
+## ADVANTAGES OF LEARNING PROGRAMMING LANGUAGES
+- It Guarantees You a Job
+- No Need for a Four-Year Degree
+- You Get to Work From Home
+- You Can Create Anything You Want
+- High Income Potential
+- You Understand How Software Works
+- It Teaches You Persistence
+- You Learn To Combine Technical Skills and Creativity
+- You Develop Problem Solving Skills
+- Open Your Own Business
