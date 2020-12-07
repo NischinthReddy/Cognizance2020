@@ -32,5 +32,7 @@
 
 ## EXPERTISE AT THESE LANGUAGES
 ![PROCOG1](https://user-images.githubusercontent.com/75219583/101353374-7bad6b00-38b9-11eb-939e-5850c1a3a5e3.jpeg)
+![PROCOG2](https://user-images.githubusercontent.com/75219583/101353666-f7a7b300-38b9-11eb-9458-6cec6a8363d4.jpeg)
+
 
 
