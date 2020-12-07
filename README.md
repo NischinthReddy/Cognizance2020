@@ -1,4 +1,6 @@
 # PORFOLIO
+![procog](https://user-images.githubusercontent.com/75219583/101350895-ca590600-38b5-11eb-8c7d-17276b41de95.png)
+
 ## WHAT PLATFORM I USED FOR THIS....
 - HTML
   - BOOTSTRAP
