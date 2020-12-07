@@ -29,3 +29,7 @@
 - You Learn To Combine Technical Skills and Creativity
 - You Develop Problem Solving Skills
 - Open Your Own Business
+
+## EXPERTISE AT THESE LANGUAGES
+- JAVA
+- PYTHON
