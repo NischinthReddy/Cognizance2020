@@ -1,0 +1,27 @@
+                   Pseudo code 
+
+ 
+
+1. Initialize r=0 and a=0 
+
+2. Enter n 
+
+3. Declare a variable “temp” and assign it to the value n 
+
+4. Find n%10 and assign it to r. Find n/10 and assign it to n only. Find a+(r*r*r) and assign to a only. 
+
+5. Is n>0   
+
+ if YES go to step 4 
+
+  else go to step 6 
+
+6. Is a==temp 
+
+  If YES display that it is an Armstrong number 
+
+   else display that it is not an Armstrong number 
+
+ 
+
+       
